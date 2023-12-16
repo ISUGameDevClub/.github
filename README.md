@@ -1,1 +1,3 @@
-# Hello world
+# ISU Game Development Club
+
+
